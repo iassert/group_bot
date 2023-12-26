@@ -1,0 +1,13 @@
+[Unit]
+Description=telegram-bot-api
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/telegram-bot-api/bin
+ExecStart=/root/telegram-bot-api/bin/telegram-bot-api --api-id=13661403 --api-hash=047935f77d19049125d7df7a869e3b48
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

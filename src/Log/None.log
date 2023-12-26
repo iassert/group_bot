@@ -1,0 +1,477 @@
+ERROR:None
+
+ChannelInvalid: Telegram says: [400 CHANNEL_INVALID] - The channel parameter is invalid (caused by "channels.GetChannels")
+File: d:\vsc\_orders\public\group_bot\src\Bot\client.py
+Line: 40
+Func: copy_message
+Cod:  return await self.__client.copy_message(
+
+2023-12-22 18:00:40,870
+INFO:None
+NetworkTask stopped
+2023-12-22 18:37:27,933
+INFO:None
+PingTask stopped
+2023-12-22 18:37:27,962
+INFO:None
+Disconnected
+2023-12-22 18:37:27,983
+INFO:None
+Session stopped
+2023-12-22 18:37:27,984
+INFO:None
+Connecting...
+2023-12-22 18:37:27,991
+INFO:None
+Connected! Production DC2 - IPv4
+2023-12-22 18:37:28,056
+INFO:None
+NetworkTask started
+2023-12-22 18:37:28,060
+INFO:None
+Session initialized: Layer 158
+2023-12-22 18:37:28,467
+INFO:None
+Device: CPython 3.10.5 - Pyrogram 2.0.106
+2023-12-22 18:37:28,468
+INFO:None
+System: Windows 10 (en)
+2023-12-22 18:37:28,468
+INFO:None
+Session started
+2023-12-22 18:37:28,469
+INFO:None
+PingTask started
+2023-12-22 18:37:28,469
+INFO:None
+NetworkTask stopped
+2023-12-22 19:06:32,147
+INFO:None
+PingTask stopped
+2023-12-22 19:06:32,277
+INFO:None
+Disconnected
+2023-12-22 19:06:32,386
+INFO:None
+Session stopped
+2023-12-22 19:06:32,389
+INFO:None
+Connecting...
+2023-12-22 19:06:32,403
+INFO:None
+Connected! Production DC1 - IPv4
+2023-12-22 19:06:32,565
+INFO:None
+NetworkTask started
+2023-12-22 19:06:32,584
+INFO:None
+Session initialized: Layer 158
+2023-12-22 19:06:33,573
+INFO:None
+Device: CPython 3.10.5 - Pyrogram 2.0.106
+2023-12-22 19:06:33,575
+INFO:None
+System: Windows 10 (en)
+2023-12-22 19:06:33,576
+INFO:None
+Session started
+2023-12-22 19:06:33,576
+INFO:None
+PingTask started
+2023-12-22 19:06:33,577
+INFO:None
+NetworkTask stopped
+2023-12-22 19:37:25,307
+INFO:None
+PingTask stopped
+2023-12-22 19:37:25,347
+INFO:None
+Disconnected
+2023-12-22 19:37:25,371
+INFO:None
+Session stopped
+2023-12-22 19:37:25,372
+INFO:None
+Connecting...
+2023-12-22 19:37:25,376
+INFO:None
+Connected! Production DC2 - IPv4
+2023-12-22 19:37:25,439
+INFO:None
+NetworkTask started
+2023-12-22 19:37:25,444
+INFO:None
+Session initialized: Layer 158
+2023-12-22 19:37:25,828
+INFO:None
+Device: CPython 3.10.5 - Pyrogram 2.0.106
+2023-12-22 19:37:25,829
+INFO:None
+System: Windows 10 (en)
+2023-12-22 19:37:25,830
+INFO:None
+Session started
+2023-12-22 19:37:25,830
+INFO:None
+PingTask started
+2023-12-22 19:37:25,831
+INFO:None
+NetworkTask stopped
+2023-12-22 20:06:23,526
+INFO:None
+PingTask stopped
+2023-12-22 20:06:23,528
+INFO:None
+Disconnected
+2023-12-22 20:06:23,532
+INFO:None
+Session stopped
+2023-12-22 20:06:23,533
+INFO:None
+Connecting...
+2023-12-22 20:06:23,534
+INFO:None
+Connected! Production DC1 - IPv4
+2023-12-22 20:06:23,691
+INFO:None
+NetworkTask started
+2023-12-22 20:06:23,692
+INFO:None
+Session initialized: Layer 158
+2023-12-22 20:06:24,375
+INFO:None
+Device: CPython 3.10.5 - Pyrogram 2.0.106
+2023-12-22 20:06:24,375
+INFO:None
+System: Windows 10 (en)
+2023-12-22 20:06:24,376
+INFO:None
+Session started
+2023-12-22 20:06:24,376
+INFO:None
+PingTask started
+2023-12-22 20:06:24,376
+INFO:None
+NetworkTask stopped
+2023-12-22 20:27:31,517
+INFO:None
+PingTask stopped
+2023-12-22 20:27:31,519
+INFO:None
+Disconnected
+2023-12-22 20:27:31,521
+INFO:None
+Session stopped
+2023-12-22 20:27:31,522
+INFO:None
+Connecting...
+2023-12-22 20:27:31,523
+INFO:None
+NetworkTask stopped
+2023-12-22 20:27:31,611
+INFO:None
+PingTask stopped
+2023-12-22 20:27:31,611
+INFO:None
+Disconnected
+2023-12-22 20:27:31,612
+INFO:None
+Session stopped
+2023-12-22 20:27:31,612
+INFO:None
+Connecting...
+2023-12-22 20:27:31,613
+INFO:None
+Connected! Production DC2 - IPv4
+2023-12-22 20:27:32,061
+INFO:None
+NetworkTask started
+2023-12-22 20:27:32,063
+INFO:None
+Connected! Production DC1 - IPv4
+2023-12-22 20:27:32,064
+INFO:None
+NetworkTask started
+2023-12-22 20:27:32,065
+INFO:None
+Session initialized: Layer 158
+2023-12-22 20:27:32,335
+INFO:None
+Device: CPython 3.10.5 - Pyrogram 2.0.106
+2023-12-22 20:27:32,335
+INFO:None
+System: Windows 10 (en)
+2023-12-22 20:27:32,336
+INFO:None
+Session started
+2023-12-22 20:27:32,337
+INFO:None
+PingTask started
+2023-12-22 20:27:32,337
+INFO:None
+Session initialized: Layer 158
+2023-12-22 20:27:32,589
+INFO:None
+Device: CPython 3.10.5 - Pyrogram 2.0.106
+2023-12-22 20:27:32,589
+INFO:None
+System: Windows 10 (en)
+2023-12-22 20:27:32,590
+INFO:None
+Session started
+2023-12-22 20:27:32,590
+INFO:None
+PingTask started
+2023-12-22 20:27:32,591
+INFO:None
+NetworkTask stopped
+2023-12-22 20:27:47,389
+INFO:None
+PingTask stopped
+2023-12-22 20:27:47,390
+INFO:None
+Disconnected
+2023-12-22 20:27:47,391
+INFO:None
+Session stopped
+2023-12-22 20:27:47,391
+INFO:None
+Connecting...
+2023-12-22 20:27:47,391
+INFO:None
+NetworkTask stopped
+2023-12-22 20:27:47,764
+INFO:None
+PingTask stopped
+2023-12-22 20:27:47,765
+INFO:None
+Disconnected
+2023-12-22 20:27:47,766
+INFO:None
+Session stopped
+2023-12-22 20:27:47,767
+INFO:None
+Connecting...
+2023-12-22 20:27:47,768
+INFO:None
+Connected! Production DC2 - IPv4
+2023-12-22 20:27:49,058
+INFO:None
+NetworkTask started
+2023-12-22 20:27:49,059
+INFO:None
+Connected! Production DC1 - IPv4
+2023-12-22 20:27:49,061
+INFO:None
+NetworkTask started
+2023-12-22 20:27:49,061
+INFO:None
+Disconnected
+2023-12-22 20:27:51,082
+INFO:None
+Disconnected
+2023-12-22 20:27:51,082
+INFO:None
+NetworkTask stopped
+2023-12-22 20:27:51,083
+INFO:None
+NetworkTask stopped
+2023-12-22 20:27:51,083
+INFO:None
+Session stopped
+2023-12-22 20:27:51,084
+INFO:None
+Connecting...
+2023-12-22 20:27:51,084
+INFO:None
+Session stopped
+2023-12-22 20:27:51,085
+INFO:None
+Connecting...
+2023-12-22 20:27:51,085
+INFO:None
+Connected! Production DC2 - IPv4
+2023-12-22 20:27:51,147
+INFO:None
+NetworkTask started
+2023-12-22 20:27:51,148
+INFO:None
+Connected! Production DC1 - IPv4
+2023-12-22 20:27:51,257
+INFO:None
+NetworkTask started
+2023-12-22 20:27:51,258
+INFO:None
+Session initialized: Layer 158
+2023-12-22 20:27:51,367
+INFO:None
+Device: CPython 3.10.5 - Pyrogram 2.0.106
+2023-12-22 20:27:51,367
+INFO:None
+System: Windows 10 (en)
+2023-12-22 20:27:51,367
+INFO:None
+Session started
+2023-12-22 20:27:51,368
+INFO:None
+PingTask started
+2023-12-22 20:27:51,368
+INFO:None
+Session initialized: Layer 158
+2023-12-22 20:27:51,799
+INFO:None
+Device: CPython 3.10.5 - Pyrogram 2.0.106
+2023-12-22 20:27:51,800
+INFO:None
+System: Windows 10 (en)
+2023-12-22 20:27:51,800
+INFO:None
+Session started
+2023-12-22 20:27:51,801
+INFO:None
+PingTask started
+2023-12-22 20:27:51,801
+INFO:None
+NetworkTask stopped
+2023-12-22 20:28:21,600
+INFO:None
+PingTask stopped
+2023-12-22 20:28:21,601
+INFO:None
+Disconnected
+2023-12-22 20:28:21,604
+INFO:None
+Session stopped
+2023-12-22 20:28:21,605
+INFO:None
+Connecting...
+2023-12-22 20:28:21,606
+INFO:None
+NetworkTask stopped
+2023-12-22 20:28:22,036
+INFO:None
+PingTask stopped
+2023-12-22 20:28:22,037
+INFO:None
+Disconnected
+2023-12-22 20:28:22,039
+INFO:None
+Session stopped
+2023-12-22 20:28:22,040
+INFO:None
+Connecting...
+2023-12-22 20:28:22,040
+INFO:None
+Connected! Production DC2 - IPv4
+2023-12-22 20:28:22,055
+INFO:None
+NetworkTask started
+2023-12-22 20:28:22,057
+INFO:None
+Connected! Production DC1 - IPv4
+2023-12-22 20:28:22,238
+INFO:None
+NetworkTask started
+2023-12-22 20:28:22,239
+INFO:None
+Session initialized: Layer 158
+2023-12-22 20:28:22,411
+INFO:None
+Device: CPython 3.10.5 - Pyrogram 2.0.106
+2023-12-22 20:28:22,412
+INFO:None
+System: Windows 10 (en)
+2023-12-22 20:28:22,413
+INFO:None
+Session started
+2023-12-22 20:28:22,413
+INFO:None
+PingTask started
+2023-12-22 20:28:22,414
+INFO:None
+Session initialized: Layer 158
+2023-12-22 20:28:22,773
+INFO:None
+Device: CPython 3.10.5 - Pyrogram 2.0.106
+2023-12-22 20:28:22,774
+INFO:None
+System: Windows 10 (en)
+2023-12-22 20:28:22,775
+INFO:None
+Session started
+2023-12-22 20:28:22,775
+INFO:None
+PingTask started
+2023-12-22 20:28:22,776
+INFO:None
+NetworkTask stopped
+2023-12-22 20:37:28,347
+INFO:None
+PingTask stopped
+2023-12-22 20:37:28,349
+INFO:None
+Disconnected
+2023-12-22 20:37:28,351
+INFO:None
+Session stopped
+2023-12-22 20:37:28,352
+INFO:None
+Connecting...
+2023-12-22 20:37:28,353
+INFO:None
+Connected! Production DC2 - IPv4
+2023-12-22 20:37:28,413
+INFO:None
+NetworkTask started
+2023-12-22 20:37:28,414
+INFO:None
+Session initialized: Layer 158
+2023-12-22 20:37:28,703
+INFO:None
+Device: CPython 3.10.5 - Pyrogram 2.0.106
+2023-12-22 20:37:28,704
+INFO:None
+System: Windows 10 (en)
+2023-12-22 20:37:28,704
+INFO:None
+Session started
+2023-12-22 20:37:28,705
+INFO:None
+PingTask started
+2023-12-22 20:37:28,706
+INFO:None
+NetworkTask stopped
+2023-12-22 21:05:19,836
+INFO:None
+PingTask stopped
+2023-12-22 21:05:19,838
+INFO:None
+Disconnected
+2023-12-22 21:05:19,840
+INFO:None
+Session stopped
+2023-12-22 21:05:19,841
+INFO:None
+Connecting...
+2023-12-22 21:05:19,841
+INFO:None
+Connected! Production DC1 - IPv4
+2023-12-22 21:05:20,002
+INFO:None
+NetworkTask started
+2023-12-22 21:05:20,004
+INFO:None
+Session initialized: Layer 158
+2023-12-22 21:05:20,684
+INFO:None
+Device: CPython 3.10.5 - Pyrogram 2.0.106
+2023-12-22 21:05:20,685
+INFO:None
+System: Windows 10 (en)
+2023-12-22 21:05:20,685
+INFO:None
+Session started
+2023-12-22 21:05:20,686
+INFO:None
+PingTask started
+2023-12-22 21:05:20,687

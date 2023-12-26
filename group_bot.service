@@ -1,0 +1,13 @@
+[Unit]
+Description=group_bot
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/group_bot/src/
+ExecStart=python3.10 /root/group_bot/src/__main__.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

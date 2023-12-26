@@ -1,0 +1,13 @@
+[Unit]
+Description=group_bot_db
+After=network.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/group_bot/src/
+ExecStart=docker-compose up -d
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
